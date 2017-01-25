@@ -1,0 +1,13 @@
+str.h
+libstr.h
+str_new.c
+str_realloc.c
+str_set.c
+str_pos.c
+str_info.c
+ft_utils.c
+str_data.c
+str_del.c
+str_append.c
+str_merge.c
+str_toc.c

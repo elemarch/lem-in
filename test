@@ -1,0 +1,13 @@
+3
+##start
+start 1 1
+##end
+end 4 4
+a 2 2
+b 3 3
+#links
+start-a
+start-b
+a-b
+end-a
+end-b
